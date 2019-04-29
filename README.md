@@ -1,1 +1,1 @@
-# common-with-log
+# common-maven
